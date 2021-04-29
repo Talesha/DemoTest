@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: runnerfile.RunnerMakeMyTrip
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 2, Skipped: 8, Time elapsed: 161.952 s <<< FAILURE! - in runnerfile.RunnerMakeMyTrip
+Given user is on "MakeMyTrip" Dashboard Page(Scenario: To verify user is landing to Result Page after searching the flight)  Time elapsed: 0.081 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout: Timed out receiving message from renderer: 10.434
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P5JKHIML', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\sktou\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fbb40c4699b5ead42f492231a2fc8ba
+
+Scenario: To verify user is landing to Result Page after searching the flight  Time elapsed: 0.086 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout: Timed out receiving message from renderer: 10.434
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-P5JKHIML', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\sktou\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60845}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fbb40c4699b5ead42f492231a2fc8ba
+
